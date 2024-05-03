@@ -1,2 +1,2 @@
-# test_repository
-테스트용레포지토리입니다.
+# school
+전공 공부한거 올릴려구요
